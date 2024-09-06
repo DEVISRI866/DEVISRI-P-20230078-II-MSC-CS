@@ -1,0 +1,26 @@
+ABOUT PROJECT
+
+TITLE:
+  BCCI Website
+
+About:
+  The project can be done using Fima. I am created my project which is BCCI websites. In my project I included Home page,About page,Contact page.
+
+HOME PAGE
+  -I included DOMESTIC 2024-24 SCHEDULE. when we click that it will show the 2024-25 Schedule page. 
+  - It should contain About page,Players and Contact page when we click it will go there pages.
+
+ABOUT PAGE:
+   -It should contain information of BCCI.
+
+CONTACT PAGE:
+   -It included the contacts of BCCI.
+
+PLAYERS PAGE:
+   - It should contains the Indian circket players info
+   - In that page when we the players VIRAT KOHLI  and ROHIT SHARMA it will display the information of each players
+   - Then click the home it will return the home page 
+
+
+Link:
+ https://www.figma.com/proto/SohnkVMIyEKyzexUE9YbOW/Untitled?node-id=6-279&node-type=FRAME&t=Xn80PsDAVluEi6gB-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
